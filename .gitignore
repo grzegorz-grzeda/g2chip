@@ -1,3 +1,9 @@
+.venv/
+
+build*/
+tmp*/
+.vscode/
+
 # Prerequisites
 *.d
 
